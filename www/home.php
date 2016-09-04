@@ -95,10 +95,6 @@
   <div id="ContentArticle">
     <table width="100%" border="0">
     <tr>
-      <td colspan="2" align="center">The Raspberry Wireless Router Project can be found on github:<br />
-        <a href="https://github.com/ronnyvdbr/ronnyvdbr.github.io" target="_blank">https://github.com/ronnyvdbr/ronnyvdbr.github.io</a></td>
-      </tr>
-    <tr>
       <td width="50%" align="right">Current Timezone:</td>
       <td width="50%"><?php echo date_default_timezone_get();?></td>
     </tr>
@@ -317,14 +313,6 @@
   </aside>
 
 
-  <footer>
-  <p>Designed by Ronny Van den Broeck </p>
-  <!-- InstanceBeginEditable name="footer" -->
-  
-  
-  
-  <!-- InstanceEndEditable -->
-  </footer>
 </div><!-- end .container -->
 
 <!-- InstanceBeginEditable name="code" -->
