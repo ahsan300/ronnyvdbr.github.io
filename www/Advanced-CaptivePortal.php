@@ -324,7 +324,7 @@ function ReturnStatus_form_deleteusers(error) {
 
 
   <footer>
-  <p>Designed by Ronny Van den Broeck </p>
+  <p>Ehsan-Wasif-Hassan </p>
   <!-- InstanceBeginEditable name="footer" -->
 
   
